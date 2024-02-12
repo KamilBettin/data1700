@@ -1,1 +1,1 @@
-# data1700
+Første obligatoriske oppgave for DATA1700
